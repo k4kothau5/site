@@ -1,4 +1,4 @@
-nesse paddo passar tud para css
+nesse passo passar tud para css
 que ainda está em html
 mas está rodando tudo
 <!doctype html>
